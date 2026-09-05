@@ -1,0 +1,10 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.enabled": false,
+  "java.import.maven.enabled": true,
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.outputPath": "target/classes",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-25.0.2"
+}
